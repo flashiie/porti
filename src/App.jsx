@@ -8,7 +8,7 @@ const App = () => {
         <img id="avatar" src="https://avatars.githubusercontent.com/u/85264247?v=4" alt="" />
         <h1>Vítor Ribeiro</h1>
         <p>@flashii</p>
-        <h3>CTO @varselcombr Success is not accidental, it's hard work, perseverance, learning, sacrifice and love for what we do.</h3>
+        <h3>Success is not accidental, it's hard work, perseverance, learning, sacrifice and love for what we do. tech lead at rocketmta.com</h3>
         <div id="ido">
             <p>📚 Studying</p>
             <p>🎥 Videomaker</p>
